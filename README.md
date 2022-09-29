@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emmanuelochem
 - 👀 I’m interested in Web & Mobile App Development
-- 🌱 I’m currently learning Angular & Flutter
+- 🌱 #Growth #SelfDevelopment
 - 💞️ I’m looking to collaborate on your project
 - 📫 You can reach me on linkedin @emmanuelochem
 
